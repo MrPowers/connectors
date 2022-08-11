@@ -108,3 +108,7 @@ spark-warehouse/
 /.vs
 /obj
 /bin
+
+# For DAT
+*.crc
+.ipynb_checkpoints
